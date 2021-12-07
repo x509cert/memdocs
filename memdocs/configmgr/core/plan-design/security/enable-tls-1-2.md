@@ -17,7 +17,7 @@ ms.collection: highpri
 
 *Applies to: Configuration Manager (Current Branch)*
 
-Transport Layer Security (TLS), like Secure Sockets Layer (SSL), is an encryption protocol intended to keep data secure when being transferred over a network. These articles describe steps required to ensure that Configuration Manager secure communication uses the TLS 1.2 protocol. These articles also describe update requirements for commonly used components and troubleshooting common problems.
+Transport Layer Security (TLS), the updated version of Secure Sockets Layer (SSL), is an authentication and encryption protocol intended to authenticate hosts and keep data secure when being transferred over a network. These articles describe steps required to ensure that Configuration Manager secure communication uses the TLS 1.2 protocol. These articles also describe update requirements for commonly used components and troubleshooting common problems.
 
 ## Enabling TLS 1.2
 
